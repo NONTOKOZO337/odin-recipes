@@ -1,8 +1,4 @@
-# odin-recipes
- Odin Recipes
-
-A simple recipe website built for [The Odin Project](https://www.theodinproject.com/), demonstrating foundational HTML and Git skills.
-
+A simple recipe website 
 Project Overview
  A static website listing food recipes with images, ingredients, and instructions.
 Skills demonstrated:
