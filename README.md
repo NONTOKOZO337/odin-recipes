@@ -3,7 +3,7 @@
 
 A simple recipe website built for [The Odin Project](https://www.theodinproject.com/), demonstrating foundational HTML and Git skills.
 
-## Project Overview
+Project Overview
  A static website listing food recipes with images, ingredients, and instructions.
 Skills demonstrated:
   - Basic HTML (links, images, lists).
@@ -11,8 +11,7 @@ Skills demonstrated:
   - Command-line navigation.
   - Writing structured documentation (this README!).
 
-##Self-Reflection
-*(Fill this out after completing the project! Example below:)*
+Self-Reflection
 -What I learned:
   - How to structure a multi-page website with HTML.
   - The importance of clear commit messages.
